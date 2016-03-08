@@ -1,6 +1,6 @@
-## CS Exercises (in Java)
+## RPI Set (in Java)
 
-The purpose of this repo is to practice CS data structures and algorithms.
+Implement Set TDD style with Java
 
 ### Installation
 
