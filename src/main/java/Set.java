@@ -6,8 +6,8 @@ public class Set {
     return true;
   }
 
-  public void Add(int value) {
-
+  public boolean Add(int value) {
+    return false;
   }
 
   public int Size() {
@@ -18,7 +18,11 @@ public class Set {
     return false;
   }
 
-  public void Remove(int value) {
+  public boolean Remove(int value) {
+    return false;
+  }
+
+  public void Clear() {
 
   }
 
